@@ -26,3 +26,5 @@ The dataset used for this project contains information on 693,071 cab rides with
 - `id`, `product_id`: Identifiers.
 - `name`: The specific service type (e.g., "Shared", "Lux").
 
+The dataset can be found here: https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices?select=weather.csv
+
